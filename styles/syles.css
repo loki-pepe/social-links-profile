@@ -67,6 +67,7 @@ main {
     color: var(--white);
     border-radius: 12px;
     text-align: center;
+    letter-spacing: 0;
 }
 
 p {
