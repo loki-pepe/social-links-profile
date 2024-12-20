@@ -61,6 +61,7 @@ li {
     font: var(--inter-2-bold);
     border-radius: 8px;
     margin-top: var(--space-200);
+    padding: var(--space-150);
 }
 
 li:first-of-type {
