@@ -66,6 +66,7 @@ main {
     background-color: var(--grey-800);
     color: var(--white);
     border-radius: 12px;
+    text-align: center;
 }
 
 p {
