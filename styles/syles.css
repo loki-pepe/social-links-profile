@@ -66,6 +66,7 @@ li {
     border-radius: 8px;
     margin-top: var(--space-200);
     padding: var(--space-150);
+    transition: color 600ms, background-color 600ms;
 }
 
 li:first-of-type {
