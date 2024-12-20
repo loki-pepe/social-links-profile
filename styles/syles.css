@@ -41,6 +41,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0 var(--space-300);
 }
 
 h1 {
@@ -79,4 +80,21 @@ p {
 
 ul {
     list-style: none;
+}
+
+
+@media screen and (min-width: 600px) {
+
+    body {
+        padding: 0 var(--space-500);
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+
+    body {
+        padding: 0;
+    }
+
 }
