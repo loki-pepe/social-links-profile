@@ -73,6 +73,7 @@ main {
     text-align: center;
     letter-spacing: 0;
     padding: var(--space-300);
+    min-width: 260px;
 }
 
 p {
@@ -91,7 +92,7 @@ ul {
     }
 
     main {
-    padding: var(--space-500);
+        padding: var(--space-500);
     }
 
 }
