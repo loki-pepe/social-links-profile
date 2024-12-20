@@ -81,6 +81,7 @@ main {
     letter-spacing: 0;
     padding: var(--space-300);
     min-width: 260px;
+    flex: 0 1 327px;
 }
 
 p {
@@ -107,6 +108,7 @@ ul {
 
     main {
         padding: var(--space-500);
+        flex: 0 0 456px;
     }
 
 }
@@ -115,6 +117,10 @@ ul {
 
     body {
         padding: 0;
+    }
+
+    main {
+        flex: 0 0 384px;
     }
 
 }
