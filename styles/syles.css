@@ -72,6 +72,11 @@ li:first-of-type {
     margin-top: 0;
 }
 
+li:hover {
+    color: var(--grey-700);
+    background-color: var(--green);
+}
+
 .location {
     color: var(--green);
     font: var(--inter-2-bold)
