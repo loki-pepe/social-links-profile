@@ -42,10 +42,12 @@ body {
 
 h1 {
     color: var(--white);
+    font: var(--inter-1);
 }
 
 .location {
     color: var(--green);
+    font: var(--inter-2-bold)
 }
 
 main {
@@ -55,4 +57,9 @@ main {
 
 li {
     background-color: var(--grey-700);
+    font: var(--inter-2-bold);
+}
+
+p {
+    font: var(--inter-2);
 }
