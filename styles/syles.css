@@ -12,3 +12,25 @@ html {
     margin: 0;
     padding: 0;
 }
+
+:root {
+    /* Colors */
+    --grey-900: #141414;
+    --grey-800: #1F1F1F;
+    --grey-700: #333;
+    --green: #C4F82A;
+    --white: #FFF;
+
+    /* Text presets */
+    --inter-1: normal 700 24px/150% "Inter", sans-serif;
+    --inter-2: normal 400 14px/150% "Inter", sans-serif;
+    --inter-2-bold: normal 700 14px/150% "Inter", sans-serif;
+
+    /* Spacing */
+    --space-500: 40px;
+    --space-300: 24px;
+    --space-200: 16px;
+    --space-150: 12px;
+    --space-100: 8px;
+    --space-50: 4px;
+}
