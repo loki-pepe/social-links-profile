@@ -76,3 +76,7 @@ main {
 p {
     font: var(--inter-2);
 }
+
+ul {
+    list-style: none;
+}
