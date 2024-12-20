@@ -53,12 +53,18 @@ img {
     width: 88px;
     height: auto;
     border-radius: 999px;
+    margin-bottom: var(--space-300);
 }
 
 li {
     background-color: var(--grey-700);
     font: var(--inter-2-bold);
     border-radius: 8px;
+    margin-top: var(--space-200);
+}
+
+li:first-of-type {
+    margin-top: 0;
 }
 
 .location {
@@ -78,11 +84,18 @@ main {
 
 p {
     font: var(--inter-2);
+    margin-bottom: var(--space-300);
+}
+
+.profile {
+    margin-bottom: var(--space-300);
 }
 
 ul {
     list-style: none;
 }
+
+
 
 
 @media screen and (min-width: 600px) {
