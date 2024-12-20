@@ -49,6 +49,10 @@ h1 {
     font: var(--inter-1);
 }
 
+header {
+    margin-bottom: var(--space-300);
+}
+
 img {
     width: 88px;
     height: auto;
@@ -86,10 +90,6 @@ main {
 
 p {
     font: var(--inter-2);
-    margin-bottom: var(--space-300);
-}
-
-.profile {
     margin-bottom: var(--space-300);
 }
 
