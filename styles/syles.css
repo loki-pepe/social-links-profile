@@ -34,3 +34,24 @@ html {
     --space-100: 8px;
     --space-50: 4px;
 }
+
+body {
+    background-color: var(--grey-900);
+}
+
+h1 {
+    color: var(--white);
+}
+
+.location {
+    color: var(--green);
+}
+
+main {
+    background-color: var(--grey-800);
+    color: var(--white);
+}
+
+li {
+    background-color: var(--grey-700);
+}
