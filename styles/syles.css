@@ -73,9 +73,14 @@ li:first-of-type {
     margin-top: 0;
 }
 
-li:hover {
+li:hover, li:focus {
     color: var(--grey-700);
     background-color: var(--green);
+}
+
+li:focus {
+    transition: none;
+    outline: none;
 }
 
 .location {
