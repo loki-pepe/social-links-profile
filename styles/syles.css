@@ -91,7 +91,7 @@ main {
     letter-spacing: 0;
     padding: var(--space-300);
     min-width: 260px;
-    flex: 0 1 327px;
+    flex: 0 0 327px;
 }
 
 p {
