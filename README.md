@@ -41,7 +41,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned hwow to center an element and control its size using flex and how to make initially inert elements tabbable.
+I learned how to center an element and control its size using flex and how to make initially inert elements tabbable.
 
 ### Useful resources
 
