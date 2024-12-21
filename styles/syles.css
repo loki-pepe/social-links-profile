@@ -76,10 +76,6 @@ li:first-of-type {
 li:hover, li:focus {
     color: var(--grey-700);
     background-color: var(--green);
-}
-
-li:focus {
-    transition: none;
     outline: none;
 }
 
